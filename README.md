@@ -4,6 +4,8 @@
 This project involves an exploratory data analysis (EDA) of the Indian Census data from 2011. The analysis was conducted using SQL for data querying and Tableau for data visualization. The dataset includes information on population, growth rates, sex ratio, literacy rates, and more, at both the district and state levels.
 
 ## Datasets
+**Dataset Source**: https://censusindia.gov.in/census.website/data/data-visualizations
+
 The analysis is based on three datasets:
 
 1. **dataset1**: Contains the columns - District, State, Growth, Sex_Ratio, Literacy
