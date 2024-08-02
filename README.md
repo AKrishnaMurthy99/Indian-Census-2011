@@ -74,6 +74,8 @@ The analysis is based on three datasets:
 
 ![image](https://github.com/user-attachments/assets/b4a50973-d571-44cc-8aa0-1c1d8cb6c94d)
 
+**NOTE: Please note that some of these output images are truncated to fit.**
+
 ## Tableau Dashboard
 An interactive Tableau dashboard was created to visualize the analysis. Key features include:
 - Filtering by state to view detailed information.
