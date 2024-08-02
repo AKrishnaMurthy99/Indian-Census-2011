@@ -15,15 +15,19 @@ The analysis is based on three datasets:
 ## SQL Analysis
 
 1. Total population in India in 2011.
+
 ![image](https://github.com/user-attachments/assets/980a1633-1b3b-49fb-a4c3-2aa39c716028)
 
 2. Average growth in total population from the previous census.
+
 ![image](https://github.com/user-attachments/assets/c4e678dc-d3ae-4aeb-8e6c-b4bd92ef582e)
 
 3. Average growth in total population for each state from the previous census.
+
 ![image](https://github.com/user-attachments/assets/569a8bf2-8dfc-4a4c-87e0-4d35a27916da)
 
 4. Average literacy rate greater than 90.
+
 ![image](https://github.com/user-attachments/assets/2c4b36f9-fc84-43ab-9253-2f197e19e76e)
 
 5. Top 3 states showing the highest growth rate.
